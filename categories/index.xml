@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on My New Hugo Site</title>
-		<link>/categories/</link>
+		<link>/AEESP_2019_MicrobialCommunityAnalysis_source/categories/</link>
 		<description>Recent content in Categories on My New Hugo Site</description>
 		<generator>Hugo 0.54.0 -- gohugo.io</generator>
 		<language>en-us</language>
-		<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="/AEESP_2019_MicrobialCommunityAnalysis_source/categories/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>R</title>
-			<link>/categories/r/</link>
+			<link>/AEESP_2019_MicrobialCommunityAnalysis_source/categories/r/</link>
 			<pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-			<guid isPermaLink="true">/categories/r/</guid>
+			<guid isPermaLink="true">/AEESP_2019_MicrobialCommunityAnalysis_source/categories/r/</guid>
 			<description></description>
 		</item>
 	</channel>
